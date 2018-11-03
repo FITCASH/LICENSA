@@ -1,5 +1,5 @@
-# LICENSA
-Licensa 
+# LICENÇA
+Licença 
 
 Copyright (c) 2018  Fitcash Developers
 
